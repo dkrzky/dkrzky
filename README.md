@@ -3,7 +3,7 @@
 I'm easily adapt to different hats (Full Stack Web Developer , App Developer , Network Engineer, Server Administrator, depending on what the project requires.
 
 
--  👨🏻‍💻: Now i'm working as **Flutter Developer**
+-  👨🏻‍💻 Now i'm working as **Flutter Developer**
 -   :seedling: Currently learning **Golang, Docker & Kubernetes**
 -   :penguin: **Linux** ... 
 
@@ -21,13 +21,3 @@ I'm easily adapt to different hats (Full Stack Web Developer , App Developer , N
 <a href="https://dart.dev/" target="_blank"> <img align="left" src="https://github.com/dkrzky/dkrzky/blob/main/icons/adobe-illustrator.png" alt="ai" height="30px"/> </a> 
 <br>
 <br>
-
-### 🔗 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
