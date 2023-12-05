@@ -2,10 +2,8 @@
 
 I'm easily adapt to different hats (Full Stack Web Developer , App Developer , Network Engineer, Server Administrator, depending on what the project requires.
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: Now i'm a Flutter Developer
-- 🌱 &nbsp;I’m currently learning Go, Docker & Kubernetes
 -   :video_game: Now i'm working as **Flutter Developer**
 -   :seedling: Currently learning **Golang, Docker & Kubernetes**
 -   :penguin: **Linux** ... 
