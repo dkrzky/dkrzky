@@ -19,6 +19,10 @@ I'm easily adapt to different hats (Full Stack Web Developer , App Developer , N
 <a href="https://www.debian.org/" target="_blank"> <img align="left" src="https://github.com/dkrzky/dkrzky/blob/main/icons/debian.png" alt="debian" height="30px"/> </a> 
 <a href="https://mikrotik.com/" target="_blank"> <img align="left" src="https://github.com/dkrzky/dkrzky/blob/main/icons/mikrotik.png" alt="mikrotik" height="30px"/> </a> 
 <a href="https://www.cisco.com/" target="_blank"> <img align="left" src="https://github.com/dkrzky/dkrzky/blob/main/icons/cisco.png" alt="cisco" height="30px"/> </a> 
+<a href="https://www.ui.com/" target="_blank"> <img align="left" src="https://github.com/dkrzky/dkrzky/blob/main/icons/aruba.png" alt="aruba" height="30px"/> </a> 
+<a href="https://www.arubanetworks.com/" target="_blank"> <img align="left" src="https://github.com/dkrzky/dkrzky/blob/main/icons/ubiquiti.png" alt="ubiquiti" height="30px"/> </a> 
+<a href="https://www.zabbix.com/" target="_blank"> <img align="left" src="https://github.com/dkrzky/dkrzky/blob/main/icons/zabbix.png" alt="zabbix" height="30px"/> </a> 
+<a href="https://www.cacti.net/" target="_blank"> <img align="left" src="https://github.com/dkrzky/dkrzky/blob/main/icons/cacti.png" alt="cacti" height="30px"/> </a>
 <a href="https://digitalocean.com/" target="_blank"> <img align="left" src="https://github.com/dkrzky/dkrzky/blob/main/icons/digital-ocean.png" alt="digitalocean" height="30px"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://github.com/dkrzky/dkrzky/blob/main/icons/git.png" alt="git" height="30px"/> </a> 
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img align="left" src="https://github.com/dkrzky/dkrzky/blob/main/icons/adobe-illustrator.png" alt="ai" height="30px"/> </a> 
