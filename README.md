@@ -5,7 +5,9 @@ I'm easily adapt to different hats (Full Stack Web Developer , App Developer , N
 
 -  👨🏻‍💻 Now i'm working as **Flutter Developer**
 -   :seedling: Currently learning **Golang, Docker & Kubernetes**
--   :penguin: **Linux** ... 
+-   :penguin: **Linux** ...  ∧,,,∧
+                            ( ̳• · • ̳)
+                            /     づ♡
 
 ### 🔨 Languages and Tools:
 <a href="https://flutter.dev/" target="_blank"> <img align="left" src="https://github.com/dkrzky/dkrzky/blob/main/icons/flutter.png" alt="flutter" height="30px"/> </a> 
