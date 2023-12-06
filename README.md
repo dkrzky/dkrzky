@@ -5,7 +5,7 @@ I'm easily adapt to different hats (Full Stack Web Developer , App Developer , N
 
 -  👨🏻‍💻 Now i'm working as **Flutter Developer**
 -   :seedling: Currently learning **Go & Cloud Native**
--   🖥 Experience in the network industry as a **Network Engineer & Server Administrator**
+-   🖥 Experience in the telecommunication industry as a **Network Engineer & Server Administrator**
 -   :penguin: **Linux** ... ❤️
 
 ### 🔨 Languages and Tools:
