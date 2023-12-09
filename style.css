@@ -4,6 +4,6 @@ img[alt="mikrotik"] {
 
 @media (prefers-color-scheme: light) {
   img[alt="mikrotik"] {
-    content: url('https://github.com/dkrzky/dkrzky/blob/main/icons/mikrotik-bl.png');
+    content: url('https://github.com/dkrzky/dkrzky/blob/main/icons/mikrotik.png');
   }
 }
