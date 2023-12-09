@@ -1,0 +1,9 @@
+img[alt="mikrotik"] {
+  content: url('https://github.com/dkrzky/dkrzky/blob/main/icons/mikrotik-wh.png');
+}
+
+@media (prefers-color-scheme: light) {
+  img[alt="mikrotik"] {
+    content: url('https://github.com/dkrzky/dkrzky/blob/main/icons/mikrotik-bl.png');
+  }
+}
