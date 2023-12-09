@@ -1,5 +1,7 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Rizky Dwi Kurniawan</h1>
 
+<link rel="stylesheet" type="text/css" href="https://github.com/dkrzky/dkrzky/blob/main/style.css">
+
 I'm easily adapt to different hats (Full Stack Web Developer , App Developer , Network Engineer, Server Administrator, depending on what the project requires.
 
 
@@ -17,11 +19,13 @@ I'm easily adapt to different hats (Full Stack Web Developer , App Developer , N
 <a href="https://www.linux.org/" target="_blank"> <img align="left" src="https://github.com/dkrzky/dkrzky/blob/main/icons/linux.png" alt="linux" height="20px"/> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img align="left" src="https://github.com/dkrzky/dkrzky/blob/main/icons/ubuntu.png" alt="ubuntu" height="20px"/> </a> 
 <a href="https://www.debian.org/" target="_blank"> <img align="left" src="https://github.com/dkrzky/dkrzky/blob/main/icons/debian.png" alt="debian" height="20px"/> </a> 
-<a href="https://mikrotik.com/" target="_blank"> <img 
+<a href="https://mikrotik.com/" target="_blank"> 
+  <img 
     align="left" 
-    src="https://github.com/dkrzky/dkrzky/blob/main/icons/mikrotik-{{theme}}.png" 
+    src="https://github.com/dkrzky/dkrzky/blob/main/icons/mikrotik.png" 
     alt="mikrotik" 
-    height="20px"/>  </a> 
+    height="20px"/> 
+</a>
 <a href="https://www.cisco.com/" target="_blank"> <img align="left" src="https://github.com/dkrzky/dkrzky/blob/main/icons/cisco.png" alt="cisco" height="20px"/> </a> 
 <a href="https://www.ui.com/" target="_blank"> <img align="left" src="https://github.com/dkrzky/dkrzky/blob/main/icons/aruba.png" alt="aruba" height="12px"/> </a> 
 <a href="https://www.arubanetworks.com/" target="_blank"> <img align="left" src="https://github.com/dkrzky/dkrzky/blob/main/icons/ubiquiti.png" alt="ubiquiti" height="20px"/> </a> 
@@ -32,16 +36,3 @@ I'm easily adapt to different hats (Full Stack Web Developer , App Developer , N
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img align="left" src="https://github.com/dkrzky/dkrzky/blob/main/icons/adobe-illustrator.png" alt="ai" height="20px"/> </a> 
 <br>
 <br>
-
-<style>
-  img[alt="mikrotik"] {
-    content: url('https://github.com/dkrzky/dkrzky/blob/main/icons/mikrotik-wh.png');
-  }
-
-  @media (prefers-color-scheme: light) {
-    img[alt="mikrotik"] {
-      content: url('https://github.com/dkrzky/dkrzky/blob/main/icons/mikrotik.png');
-    }
-  }
-</style>
-
